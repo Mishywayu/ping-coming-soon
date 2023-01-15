@@ -79,7 +79,7 @@ input {
     height: 50vh;
     margin-top: 20px !important;
     margin-left: 200px;
-    background-image: url(/images/illustration-dashboard.png);
+    background-image: url(./images/illustration-dashboard.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
